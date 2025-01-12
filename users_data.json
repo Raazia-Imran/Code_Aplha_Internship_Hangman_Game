@@ -1,0 +1,53 @@
+{
+    "Raazia": {
+        "password": "123",
+        "stats": {
+            "easy": {
+                "played": 89,
+                "won": 16
+            },
+            "medium": {
+                "played": 12,
+                "won": 7
+            },
+            "hard": {
+                "played": 1,
+                "won": 0
+            }
+        }
+    },
+    "User1": {
+        "password": "000",
+        "stats": {
+            "easy": {
+                "played": 0,
+                "won": 0
+            },
+            "medium": {
+                "played": 0,
+                "won": 0
+            },
+            "hard": {
+                "played": 0,
+                "won": 0
+            }
+        }
+    },
+    "User2": {
+        "password": "111",
+        "stats": {
+            "easy": {
+                "played": 1,
+                "won": 1
+            },
+            "medium": {
+                "played": 0,
+                "won": 0
+            },
+            "hard": {
+                "played": 1,
+                "won": 0
+            }
+        }
+    }
+}
