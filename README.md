@@ -73,6 +73,10 @@ Contributions are welcome! Follow these steps to contribute:
 3. Commit your changes and push them to your branch.
 4. Submit a pull request.
 
+### Future Scope
+-Adding more categories and difficulty levels.
+-Incorporating sound effects and animations.
+-Transitioning to database management for scalable user data.
 
 ## Contact
 For queries or suggestions, feel free to reach out:
